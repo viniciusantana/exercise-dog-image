@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Componentes from './Componentes';
+import Api from './api';
 
 function App() {
   return (
     <div className="App">
-      <Componentes />
+      <Api />
     </div>
   );
 }

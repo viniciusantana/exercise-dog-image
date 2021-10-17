@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Componentes extends React.Component {
+class Api extends React.Component {
   constructor() {
     super();
     
@@ -51,4 +51,4 @@ class Componentes extends React.Component {
   }
 }
 
-export default Componentes;
+export default Api;
