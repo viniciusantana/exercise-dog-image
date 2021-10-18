@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  width: 25%;
+}
+
+/* .doggo {
+  width: 30%;
+  height: 300px;
+  border: 1px solid black;
+} */
